@@ -1,0 +1,5 @@
+1|Coca cola|300|XYZCompany
+2|Pepsi|100|ABManufacturer|Coolest
+3|TehTarik|100|XYZCompany
+4|CokeMoreSugar|500000000|APUCompany
+5|Sandy|100|99Speedmart
